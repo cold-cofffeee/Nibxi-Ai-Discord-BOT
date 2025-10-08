@@ -1,5 +1,4 @@
 Flask
-discord.py
+py-cord
 google-generativeai
 python-dotenv
-py-cord
